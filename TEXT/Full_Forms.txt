@@ -1,0 +1,4 @@
+npm - node package manager
+package.json -
+which is use to represent what ever dependent framework is is used in the preoject that will be denoted.
+package-lock.json - which is used the depedency frameworks for which dev dependency work.
